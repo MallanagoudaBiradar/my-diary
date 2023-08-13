@@ -1,0 +1,15 @@
+*{
+    background-color: aqua;
+}
+
+li a{
+   
+    background-color: orange;
+    
+}
+
+h1{
+    padding-left: 550px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex: content;
+}

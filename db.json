@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "addpage": [
+    {
+      "title": "my birthday today",
+      "date": "2023-06-07",
+      "page": "vwbf debcb bqwiuibq dbiqibd bdiuqbdb ggdgd gvs ",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
